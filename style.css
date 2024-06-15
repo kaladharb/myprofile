@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Trispace:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Trispace:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fjalla+One&family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Slab:wght@100..900&display=swap');
+
+
+.kk{
+    color: white;
+}
+.one{
+    height: 310vh;
+    background-image: url("https://www.ucf.edu/wp-content/blogs.dir/20/files/2021/08/UCF-Space-Exploration.jpg");
+}
+.kk:hover{
+    color: rgb(24, 250, 16);
+}
+.kkk{
+    font-family: "Space Mono", monospace;
+    font-size: large;
+}
+
+
+.bb{
+    margin-left: auto;
+}
+.para{
+    padding-top: 45px;
+    font-family: "League Spartan", sans-serif;
+    text-align: center;
+    color: white;
+    padding-left: 20px;
+
+}
+.mm{
+    height: 450px;
+ padding-left: 150px;
+ padding-top: 15px;
+    
+}
+.new{
+    padding-top: 10px;
+
+}
+
+.head{
+    padding-top: 100px;
+    color: white;
+    text-align: center;
+font-family: "Playfair Display", serif;
+   
+}
+
+.about{
+    padding-top: 50px;
+color: white;
+font-style: italic;
+text-align:center;
+font-family: "Playfair Display", serif;
+text-decoration: wavy;
+text-decoration: underline;
+
+}
+
+.para2{
+    padding: 35px;
+    margin: 10px;
+    color: rgb(223, 245, 22);
+    border: 5px solid rgb(241, 174, 174);
+    font-family: "Lora", serif;
+    font-style: italic;
+
+}
+.para3{
+  color: rgb(17, 11, 11);
+border: 3px solid rgb(31, 10, 10);
+background-color: rgb(222, 141, 109);
+margin: 4PXx;
+padding: 10PX;
+font-family: "Roboto Slab", serif;
+}
+.about1{
+padding-top: 40px;
+color: white;
+font-style: italic;
+font-family: "Playfair Display", serif;
+text-decoration: wavy;
+text-decoration: underline;
+}
+.list{
+    color: rgb(3, 14, 18);
+    list-style-type: square;
+    background-color: rgb(237, 227, 135);
+    border: 3PX solid rgb(202, 8, 21);
+    align-items: center;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+.hh{
+    margin-top: 10;
+    color: white;
+    
+}
+.LL{
+    padding-left: 100PX;
+    padding-top: 60PX;
+    font-family: "Roboto Slab", serif;
+}
+.kk{
+    color: white;
+    font-style: italic;
+    font-family: "Fjalla One", sans-serif;
+    text-decoration: wavy;
+    text-decoration: underline;
+}
+.Course{
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    font-family: "Fjalla One", sans-serif;
+    text-decoration: wavy;
+    text-decoration: underline;
+}
+.CARD{
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    border: 3px solid white;
+    padding: 10px;
+
+}
+.card-1{
+   padding-top: 10px;
+   text-align: center;
+   height: 80px;
+}
+.card-p{
+    padding-top: 15px;
+    text-align: center;
+}
+.card:hover{
+    color: rgb(84, 238, 13);
+}
+
+.oo{
+    padding-top: 40px;
+    color: white;
+text-align: center;
+text-decoration: wavy;
+text-decoration: underline;
+}
+.deep{
+    text-align: center;
+}
+.ppp{
+    padding-top: 20px;
+    font-style: italic;
+    font-size: large;
+}
+.qq{
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+}
+.cc{
+    text-align: center;
+    color: white;
+}
