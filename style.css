@@ -166,7 +166,51 @@ text-decoration: underline;
     text-align: center;
     color: white;
 }
+
 .cc{
     text-align: center;
     color: white;
 }
+
+.sc-h1{
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.king {
+    display: flex;
+    justify-content: space-around;  /* Distributes the items evenly */
+    align-items: center;  /* Aligns items vertically in the center */
+  }
+  .item {
+    text-align: center;  /* Centers the text and image inside each item */
+  }
+  
+  .sc-h1 {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+
+.contacts .platforms-container {
+    display: flex;
+    justify-content: space-between; /* Add space between each section */
+    align-items: center; /* Center-align vertically */
+    margin: 0 10px; /* Optional: Add some margin to the container to prevent touching edges */
+}
+
+.contacts .platform {
+    text-align: center; /* Center-align text and image */
+    margin: 0 20px; /* Add horizontal space between each platform */
+}
+
+.contacts .sc-h1 {
+    font-size: 20px;
+    margin-bottom: 10px; /* Space between name and logo */
+}
+
+.contacts img {
+    display: block;
+    margin: 0 auto; /* Centers the image */
+}
+
+
